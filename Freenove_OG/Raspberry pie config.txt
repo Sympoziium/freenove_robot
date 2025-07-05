@@ -1,0 +1,11 @@
+Raspberry pie config
+
+hostname : Mecanum
+username : robot
+password : 2413
+
+config wifi 
+ipv4: 192.168.68.84/22
+SSID : Moroni_Guest
+password : 4504691075
+country : CA
